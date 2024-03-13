@@ -3,13 +3,13 @@
 
 - 🌱 Eu estou atualmente aprendendo **Python para data Science, SQL, Machine Learning**
 
-- 💬 Converse comigo sobre **Power BI, Excel e Python**
+- 💬 Converse comigo sobre **Python, Machine Learning, Redes Neurais**
 
 - 📫 Me encontre em **pedrohlimac02@gmail.com**
 
 - 📄 Conheça minhas experiências [www.linkedin.com/in/pedro-henrique-lima-carvalho](www.linkedin.com/in/pedro-henrique-lima-carvalho)
 
-- ⚡ Fun fact **Estou querendo migrar para a área de dados e vou começar minha pós em ciência de dados no próximo mês**
+- ⚡ Fun fact **Estou querendo migrar para a área de dados e comecei minha pós em Ciência de Dados pela PUC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
