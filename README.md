@@ -1,9 +1,9 @@
 <h1 align="center">Oi👋, Eu sou Pedro Henrique</h1>
 <h3 align="center">Um apaixonado na área de dados no começo de sua jornada</h3>
 
-- 🌱 Eu estou atualmente aprendendo **Python para data Science, SQL, Machine Learning**
+- 🌱 Eu estou atualmente aprendendo **Databricks para Engenharia de Dados, Google Cloud, TensorFlow**
 
-- 💬 Converse comigo sobre **Python, Machine Learning, Redes Neurais**
+- 💬 Converse comigo sobre **Python, Machine Learning, Redes Neurais, GCP e qualquer coisa relacionado a dados**
 
 - 📫 Me encontre em **pedrohlimac02@gmail.com**
 
