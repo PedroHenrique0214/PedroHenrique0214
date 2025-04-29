@@ -5,7 +5,7 @@
 
 - Meu perfil no Medium [https://medium.com/@pedrohlimac02](https://medium.com/@pedrohlimac02)
 
-- 💬 Me pergunte sobre **Power BI, SQL, Python, análise de dados e visualização de dados**
+- 💬 Me pergunte sobre **Power BI, Fabric, SQL, Python, análise de dados e visualização de dados**
 
 - 📫 Me encontre em **pedrohlimac02@gmail.com**
 
